@@ -1,5 +1,5 @@
 # bioinz.com
-Bioinformatics alive here:
+Bioinformatics alive:
 
 [www.bioinz.com](www.bioinz.com)
 
